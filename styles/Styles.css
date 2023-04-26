@@ -1,0 +1,47 @@
+    body {
+        text-align: center;
+        background-color: rgb(233, 215, 207);
+        margin: 50px;
+    }
+    
+    h1 { 
+        font-family: 'Fira Sans', sans-serif;
+        color: #c4a7a7;
+    }
+    p {
+        font-family: 'Fira Sans', sans-serif;
+        color: #534B4B;
+        margin: 1px 1px 1px 1px;
+    }
+    a {
+        color: rgb(167, 1, 78);
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    #learn-basics {
+        color: rgb(240, 236, 234);
+        font-weight: bold;
+        font-size: 52px;
+    }
+    #learn-basicss {
+        color: rgb(221, 16, 16);
+        font-weight: bold;
+        font-size: 24px;
+    }
+
+    body {
+        margin-top: 25px;
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-bottom: 25px;
+    }
+
+    footer {
+        margin: 20px
+    }
+    
+    span {
+        color: greenyellow;
+    }

@@ -1,0 +1,32 @@
+
+header {
+    background-color: rgb(216, 35, 35);
+    border: 5px solid black;
+    border-radius: 80px;
+    margin: -25px auto auto auto;
+    padding: 24px;
+    box-shadow: 1px 2px 8px rgb(0, 0, 0, 1);
+}
+
+img {
+    width: 300px;
+    height: 150px;
+    border-radius: 100px;
+    border: 5px solid black;
+    box-shadow: 1px 2px 8px rgb(0, 0, 0, 1);
+}
+
+a {
+    padding: 2px;
+    border-radius: 10px;
+    font-family: 'Fira Sans', sans-serif;
+    border: 1px solid black;
+    background-color: rgb(167, 1, 78);
+    color: white;
+    margin: 0   ;
+}
+
+a:hover {
+    text-decoration: none;
+    background-color: rgb(180, 12, 90);
+}
